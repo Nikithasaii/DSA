@@ -66,8 +66,7 @@ I aim to solve **at least 3 problems daily** and update this repository regularl
 ---
 
 ## 🤝 **Let’s Connect**
-📧 Email: **your-email@example.com** (replace with your mail) <br>
-🔗 https://linkedin.com/in/your-profile (replace with your linked in profile)   <br>
+📧 Email: **nikithasai.n2002@gmail.com** (replace with your mail) <br>
 ⭐ If you find this helpful, **give it a star!** 🌟  
 
 
